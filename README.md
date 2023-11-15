@@ -151,5 +151,7 @@ A continuación, se detalla el progreso alcanzado en cada sprint:
 
 https://www.figma.com/file/mscZSGHO2kCcRqtMJ3tWAe/Esperanza-Solidaria---Prototipo-Horizontal-de-baja-fidelidad?type=design&node-id=0-1&mode=design&t=dggPrgNcYQ6bSwWA-0
 
+<br><br>
+
 ## 7-Página Web
 
