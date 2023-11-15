@@ -57,28 +57,46 @@ Para cumplir dichos objetivos, existen una serie de necesidades planteadas por l
 La elección de los módulos de Odoo esta enfocada en abordar las necesidades específicas planteadas anteriormente y optimizar la gestión de la empresa.
 
 ### CRM:
+El módulo CRM de Odoo desempeñará un papel fundamental en la optimización de la gestión de relaciones con donantes, voluntarios y colaboradores de Esperanza Solidaria. 
+Este sistema permitirá una administración eficiente de la información, mejorando la comunicación y fortaleciendo las relaciones con todas las partes involucradas.
+
+---
 
 ### Página Web
 Primordial para la promoción y captación de recursos. Se desarrolla un sitio web intuitivo y atractivo que destaque los proyectos de la empresa y facilite las donaciones en línea, además de la captación de futuros voluntarios.
 
+---
+
 ### Inventario
 Coordinar la distribución de alimentos, ropa y futuros artículos que puedan existir. Se implementa un sistema de inventario para garantizar un seguimiento de las donaciones de productos y facilite su distribución según las necesidades.
+
+---
 
 ### Marketing por Email
 Herramienta efectiva para sensibilizar a la comunidad y presentar campañas de concienciación. Este módulo permite el diseño y la ejecución de campañas de manera eficaz, con el objetivo de llegar a la máxima audiencia posible.
 
+---
+
 ### Empleados
 Clave para la eficiencia interna. Se configura y gestiona para optimizar la gestión del personal.
+
+---
 
 ### Contrato de los empleados
 Se configura y gestiona para asegurar que los contratos de los empleados estén bien documentados, esto ayuda a la transparencia y la legalidad.
 
+---
+
 ### Gastos
 Se gestiona para la transparencia financiera. Permite un seguimiento preciso y una gestión más eficiente de los recursos financieros.
+
+---
 
 ### Proyecto
 Gestiona la supervisión y evaluación de la implementación de programas.
 Garantiza que todas las actividades, decisiones y programas implementados estén en consonancia con la misión y los valores fundamentales de la organización
+
+---
 
 ### Comercio Electrónico
 Permite la venta de productos benéficos y facilitando la recaudación de fondos a través de eventos en línea.
@@ -87,18 +105,30 @@ Permite la venta de productos benéficos y facilitando la recaudación de fondos
 
 ## 4-Backlog
 
-A continuación, presentamos el primer backlog, hecho sin reuinión previa y solamente teniendo en cuenta el documento que se nos entrego con información de la empresa.
+A continuación, presentamos el primer backlog, hecho sin reuinión previa y solamente teniendo en cuenta el documento que se nos entregó con información de la empresa.
+<br><br>
 
 ![Backlog](backlog.png)  
+<br><br>
 
-
-Después de la primera reunión realizada, conseguimos definir los módulos que ibamos a implementar y agregamos las siguientes tareas a nuestro backlog.
+Después de la primera reunión realizada, conseguimos definir los módulos que ibamos a implementar y agregamos las siguientes tareas a nuestro backlog:
+<br><br>
 
 ![Backlog](backlog3.png)
 
 <br><br>
 
 ## 5-Reuniones semanales
+
+La entrevista inicial con nuestro cliente tuvo lugar el 19/10/23. Desde entonces, hemos programado semanalmente un conjunto de tareas realistas para ser completadas antes de los respectivos plazos (sprints).
+
+Estas responsabilidades se distribuyeron entre los miembros del equipo, sin embargo, siempre ha prevalecido una colaboración conjunta en las especificaciones, asegurándonos de que se realicen de manera unánime.
+
+A continuación, se detalla el progreso alcanzado semanalmente:
+
+![Reuniones semanales](sprint1.png)
+
+
 
 ## 6-Página Web
 
