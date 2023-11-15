@@ -109,7 +109,7 @@ A continuación, presentamos el primer backlog, hecho sin reuinión previa y sol
 <br><br>
 
 ![Backlog](backlog.png)  
-<br><br>
+<br>
 
 Después de la primera reunión realizada, conseguimos definir los módulos que ibamos a implementar y agregamos las siguientes tareas a nuestro backlog:
 <br><br>
@@ -120,14 +120,32 @@ Después de la primera reunión realizada, conseguimos definir los módulos que 
 
 ## 5-Reuniones semanales
 
-La entrevista inicial con nuestro cliente tuvo lugar el 19/10/23. Desde entonces, hemos programado semanalmente un conjunto de tareas realistas para ser completadas antes de los respectivos plazos (sprints).
+La entrevista inicial con nuestro cliente se llevó a cabo el 19/10/23. Desde entonces, hemos mantenido reuniones semanales para obtener su retroalimentación sobre el progreso del proyecto. En estas reuniones, hemos planificado un conjunto de tareas realistas para ser completadas antes de los respectivos plazos (sprints).
 
 Estas responsabilidades se distribuyeron entre los miembros del equipo, sin embargo, siempre ha prevalecido una colaboración conjunta en las especificaciones, asegurándonos de que se realicen de manera unánime.
 
-A continuación, se detalla el progreso alcanzado semanalmente:
+A continuación, se detalla el progreso alcanzado en cada sprint:
 
+<br><br>
 ![Reuniones semanales](sprint1.png)
+<br><br><br>
+---
+<br><br>
+![Reuniones semanales](sprint2.png)
+<br><br><br>
+---
+<br><br>
+![Reuniones semanales](sprint3.png)
+<br><br><br>
+---
+<br><br>
+![Reuniones semanales](sprint4.png)
+<br><br><br>
+---
+<br><br>
+![Reuniones semanales](sprint5.png)
 
+<br><br>
 
 
 ## 6-Página Web
