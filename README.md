@@ -60,43 +60,43 @@ La elección de los módulos de Odoo esta enfocada en abordar las necesidades es
 El módulo CRM de Odoo desempeñará un papel fundamental en la optimización de la gestión de relaciones con donantes, voluntarios y colaboradores de Esperanza Solidaria. 
 Este sistema permitirá una administración eficiente de la información, mejorando la comunicación y fortaleciendo las relaciones con todas las partes involucradas.
 
----
+
 
 ### Página Web
 Primordial para la promoción y captación de recursos. Se desarrolla un sitio web intuitivo y atractivo que destaque los proyectos de la empresa y facilite las donaciones en línea, además de la captación de futuros voluntarios.
 
----
+
 
 ### Inventario
 Coordinar la distribución de alimentos, ropa y futuros artículos que puedan existir. Se implementa un sistema de inventario para garantizar un seguimiento de las donaciones de productos y facilite su distribución según las necesidades.
 
----
+
 
 ### Marketing por Email
 Herramienta efectiva para sensibilizar a la comunidad y presentar campañas de concienciación. Este módulo permite el diseño y la ejecución de campañas de manera eficaz, con el objetivo de llegar a la máxima audiencia posible.
 
----
+
 
 ### Empleados
 Clave para la eficiencia interna. Se configura y gestiona para optimizar la gestión del personal.
 
----
+
 
 ### Contrato de los empleados
 Se configura y gestiona para asegurar que los contratos de los empleados estén bien documentados, esto ayuda a la transparencia y la legalidad.
 
----
+
 
 ### Gastos
 Se gestiona para la transparencia financiera. Permite un seguimiento preciso y una gestión más eficiente de los recursos financieros.
 
----
+
 
 ### Proyecto
 Gestiona la supervisión y evaluación de la implementación de programas.
 Garantiza que todas las actividades, decisiones y programas implementados estén en consonancia con la misión y los valores fundamentales de la organización
 
----
+
 
 ### Comercio Electrónico
 Permite la venta de productos benéficos y facilitando la recaudación de fondos a través de eventos en línea.
@@ -126,7 +126,6 @@ Estas responsabilidades se distribuyeron entre los miembros del equipo, sin emba
 
 A continuación, se detalla el progreso alcanzado en cada sprint:
 
-<br><br>
 ![Reuniones semanales](sprint1.png)
 <br><br><br>
 ---
