@@ -11,10 +11,9 @@
 5. [Reuniones semanales](#5-reuniones-semanales)
 6. [Página web](#6-página-web)
 
-<br><br>
+<br>
 
 ## 1-Descripción empresa
-<br>
 
 Esperanza Solidaria, es una organización del Tercer Sector comprometida con la asistencia humanitaria.
 
@@ -26,7 +25,6 @@ Estos voluntarios desempeñan un papel vital en todas las áreas de trabajo.
 <br><br>
 
 ## 2-Objetivos y necesidades
-<br>
 
 El objetivo principal al que esta enfocada Esperanza Solidaria es brindar asistencia integral a la mayor cantidad de personas posible. 
 
@@ -55,7 +53,6 @@ Para cumplir dichos objetivos, existen una serie de necesidades planteadas por l
 <br><br>
 
 ## 3-Módulos
-<br>
 
 La elección de los módulos de Odoo esta enfocada en abordar las necesidades específicas planteadas anteriormente y optimizar la gestión de la empresa.
 
@@ -89,7 +86,6 @@ Permite la venta de productos benéficos y facilitando la recaudación de fondos
 <br><br>
 
 ## 4-Backlog
-<br>
 
 A continuación, presentamos el primer backlog, hecho sin reuinión previa y solamente teniendo en cuenta el documento que se nos entrego con información de la empresa.
 
@@ -103,8 +99,6 @@ Después de la primera reunión realizada, conseguimos definir los módulos que 
 <br><br>
 
 ## 5-Reuniones semanales
-<br>
 
 ## 6-Página Web
-<br>
 
