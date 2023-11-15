@@ -1,5 +1,5 @@
 # Esperanza Solidaria
-![Reuniones semanales](ImagenEsperanza.png)
+![LOGO](ImagenEsperanza.PNG)
 <br>
 
 ### Índice:
