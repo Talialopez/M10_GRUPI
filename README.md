@@ -59,8 +59,33 @@ Para cumplir dichos objetivos, existen una serie de necesidades planteadas por l
 La elección de los módulos de Odoo esta enfocada en abordar las necesidades específicas planteadas anteriormente y optimizar la gestión de la empresa.
 
 ### CRM:
-El módulo CRM de Odoo desempeñará un papel fundamental en la optimización de la gestión de relaciones con donantes, voluntarios y colaboradores de Esperanza Solidaria. 
-Este sistema permitirá una administración eficiente de la información, mejorando la comunicación y fortaleciendo las relaciones con todas las partes involucradas.
+El módulo CRM desempeñará un papel fundamental en la optimización de la gestión de relaciones con donantes, voluntarios y colaboradores de Esperanza Solidaria. 
+Este sistema permitirá una administración eficiente de la información, mejorando la comunicación y fortaleciendo las relaciones con todas las partes involucradas. A continuación, se detallan sus funcionalidades clave:
+
+**Gestión de donantes**:
+
+Registro detallado de donantes individuales y empresas colaboradoras.
+Seguimiento de donaciones y generación de informes para evaluar el apoyo financiero.
+
+**Voluntarios y personal**:
+
+Perfiles de voluntarios con habilidades y experiencia detalladas.
+Seguimiento de la disponibilidad y asignación eficiente a proyectos según las necesidades.
+
+**Seguimiento de programas y proyectos**:
+
+Registro de programas y proyectos en curso.
+Evaluación continua para asegurar la alineación con la misión de la organización.
+
+**Interacción y comunicación**:
+
+Registro de interacciones con donantes, voluntarios y colaboradores.
+Herramientas de comunicación integradas para mantener a todos informados sobre los avances y logros.
+
+**Análisis y reportes**:
+
+Generación de informes para evaluar la eficacia de las campañas de concienciación y captación de recursos.
+Seguimiento de la participación en eventos y respuesta a campañas.
 
 
 
@@ -80,6 +105,31 @@ Esta herramienta nos ayuda a evitar el exceso o la falta de existencias al propo
 ### Marketing por Email
 Herramienta efectiva para sensibilizar a la comunidad y presentar campañas de concienciación. Este módulo permite el diseño y la ejecución de campañas de manera eficaz, con el objetivo de llegar a la máxima audiencia posible. 
 
+El propósito principal de implementar el módulo de marketing por email es mejorar la comunicación con donantes, voluntarios y la comunidad en general.  A continuación se detallan sus características clave:
+
+**Creación de campañas personalizadas**:
+
+Permite diseñar y enviar correos electrónicos personalizados a segmentos específicos de la audiencia.
+
+**Automatización de flujos de trabajo**:
+
+Configuración de flujos automáticos para enviar correos de agradecimiento, confirmaciones y recordatorios.
+
+**Seguimiento y análisis**:
+
+Proporciona métricas detalladas para evaluar el rendimiento de las campañas.
+
+**Segmentación de audiencia**:
+
+División de contactos en grupos específicos (donantes, voluntarios, intereses) para mensajes personalizados y dirigidos.
+
+**Contenido relevante y persuasivo**:
+
+Creación de contenido atractivo y persuasivo para transmitir el impacto real de las contribuciones y la importancia de la participación.
+
+**Automatización de campañas**:
+
+Configuración de flujos automáticos para enviar correos de agradecimiento, actualizaciones de proyectos y recordatorios de eventos.
 
 
 ### Empleados
@@ -97,15 +147,15 @@ La gestión detallada de gastos es esencial para garantizar la transparencia y l
 
 Registrar y documentar adecuadamente los gastos a través de este módulo puede ayudar a Esperanza Solidaria de varias maneras:
 
-1. Transparencia financiera: Facilita la transparencia al mostrar a donantes, colaboradores y socios cómo se manejan y distribuyen los fondos.
+1. **Transparencia financiera**: Facilita la transparencia al mostrar a donantes, colaboradores y socios cómo se manejan y distribuyen los fondos.
 
-2. Seguimiento preciso de recursos: Permite un seguimiento detallado de cómo se gastan los fondos, lo que ayuda a tomar decisiones financieras más informadas y eficientes.
+2. **Seguimiento de recursos**: Permite un seguimiento detallado de cómo se gastan los fondos, lo que ayuda a tomar decisiones financieras más informadas y eficientes.
 
-3. Informes y justificación: Proporciona la base para informes financieros detallados y ayuda a justificar el uso de fondos a los donantes y a las autoridades correspondientes.
+3. **Informes y justificación**: Proporciona la base para informes financieros detallados y ayuda a justificar el uso de fondos a los donantes y a las autoridades correspondientes.
 
-4. Eficiencia en la gestión: Al tener una visión clara de los gastos, se puede identificar áreas de mejora en la gestión financiera y optimizar los recursos disponibles.
+4. **Eficiencia en la gestión**: Al tener una visión clara de los gastos, se puede identificar áreas de mejora en la gestión financiera y optimizar los recursos disponibles.
 
-5. Transparencia y confianza: Aumenta la confianza de los donantes y el público en general al demostrar una gestión responsable y transparente de los recursos financieros.
+5. **Transparencia y confianza**: Aumenta la confianza de los donantes y el público en general al demostrar una gestión responsable y transparente de los recursos financieros.
 
 
 
@@ -166,7 +216,7 @@ A continuación, se detalla el progreso alcanzado en cada sprint:
 
 ## 6-Prototipo Horizontal de Baja Fidelidad
 
-https://www.figma.com/file/mscZSGHO2kCcRqtMJ3tWAe/Esperanza-Solidaria---Prototipo-Horizontal-de-baja-fidelidad?type=design&node-id=0-1&mode=design&t=dggPrgNcYQ6bSwWA-0
+https://www.figma.com/file/mscZSGHO2kCcRqtMJ3tWAe/Esperanza-Solidaria---Prototipo-horizontal-de-baja-fidelidad?type=design&node-id=0-1&mode=design&t=66ZLzJMIhWWEcKgj-0
 
 <br><br>
 
@@ -178,3 +228,6 @@ https://www.figma.com/file/RYGk0VBYQdVZobpOJ5Hkj0/Prototipo-horizontal-de-alta-f
 
 ## 8-Conclusiones
 
+La implementación de un ERP como Odoo en Esperanza Solidaria es una inversión estratégica. La plataforma ofrece herramientas integrales que no solo mejoran la eficiencia operativa, sino que también fortalecen la capacidad de la organización para alcanzar sus objetivos humanitarios con transparencia, eficacia y escalabilidad.
+
+Estas conclusiones resaltan los beneficios significativos que esta herramienta aporta a Esperanza Solidaria, proporcionando una plataforma integral para optimizar sus operaciones, aumentar su impacto y promover su crecimiento sostenible en el ámbito humanitario.
