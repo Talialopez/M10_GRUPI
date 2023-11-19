@@ -19,7 +19,9 @@
 
 Esperanza Solidaria, es una organización del Tercer Sector comprometida con la asistencia humanitaria.
 
-Es una entidad con un enfoque regional y un tamaño mediano, sin animo de lucro que se sustenta principalmente a través de donaciones y ayudas ofrecidas por individuos y empresas. Su viabilidad financiera depende de las donaciones de particulares y empresas, que constituyen una parte crucial de su presupuesto y que les permite desarrollar los proyectos y programas sociales que llevan a cabo en la comunidad de Madrid.
+Es una entidad con un enfoque regional y un tamaño mediano, sin animo de lucro que se sustenta principalmente a través de donaciones y ayudas ofrecidas por individuos y empresas.
+
+Su viabilidad financiera depende de las donaciones de particulares y empresas, que constituyen una parte crucial de su presupuesto y que les permite desarrollar los proyectos y programas sociales que llevan a cabo en la comunidad de Madrid.
 
 Dicha organización se enfoca en reclutar y capacitar a voluntarios comprometidos con la inclusión social en la provincia de Madrid. 
 Estos voluntarios desempeñan un papel vital en todas las áreas de trabajo. 
@@ -58,6 +60,8 @@ Para cumplir dichos objetivos, existen una serie de necesidades planteadas por l
 
 La elección de los módulos de Odoo esta enfocada en abordar las necesidades específicas planteadas anteriormente y optimizar la gestión de la empresa.
 
+<br>
+
 ### CRM:
 El módulo CRM desempeñará un papel fundamental en la optimización de la gestión de relaciones con donantes, voluntarios y colaboradores de Esperanza Solidaria. 
 Este sistema permitirá una administración eficiente de la información, mejorando la comunicación y fortaleciendo las relaciones con todas las partes involucradas. A continuación, se detallan sus funcionalidades clave:
@@ -86,6 +90,7 @@ Este sistema permitirá una administración eficiente de la información, mejora
 
     Generación de informes para evaluar la eficacia de las campañas de concienciación y captación de recursos.
     Seguimiento de la participación en eventos y respuesta a campañas.
+
 <br><br>
 
 
@@ -94,13 +99,44 @@ Primordial para la promoción y captación de recursos. Se desarrolla un sitio w
 
 Entendemos que las necesidades de la organización pueden cambiar con el tiempo, y queremos asegurarnos de que su presencia en línea siempre esté alineada con su evolución. Así que, si en algún momento desean realizar cambios, ya sea actualizar información, agregar nuevas secciones o incluso cambiar el diseño visual, dicho modulo nos prepara para hacerlo realidad sin complicaciones.
 
-Con este módulo, podrán tener una presencia en línea que refleje verdaderamente la labor que realizan.Este sitio web no solo será un recurso informativo, sino también una herramienta para conectar con su comunidad y atraer a nuevos seguidores y donantes.
+Con este módulo, podrán tener una presencia en línea que refleje verdaderamente la labor que realizan. Este sitio web no solo será un recurso informativo, sino también una herramienta para conectar con su comunidad y atraer a nuevos seguidores y donantes. Alguno de los beneficios que se pueden encontrar són:   
+
+1. **Recopilación de fondos:**
+
+    Facilita la recaudación de fondos al proporcionar formularios de donación integrados.
+
+2. **Comunicación:**   
+    Facilita la comunicación efectiva mediante la publicación de noticias, actualizaciones y eventos que mantienen a la comunidad informada sobre las actividades de la ONG.
+
+3. **Voluntariado y Colaboración:**
+    Permite la promoción de oportunidades de voluntariado y colaboración, facilitando la participación activa de personas interesadas en contribuir con su tiempo y habilidades.
+
+4. **Tiendas Solidarias:**
+    Para ONGs que participan en comercio justo o tienen tiendas solidarias, la página web puede ser una plataforma para vender productos y recaudar fondos.
+
+
 <br><br>
 
 
 ### Inventario
-Coordinar la distribución de alimentos, ropa y futuros artículos que puedan existir. Se implementa un sistema de inventario para garantizar un seguimiento de las donaciones de productos y facilitar su distribución según las necesidades.
-Esta herramienta nos ayuda a evitar el exceso o la falta de existencias al proporcionar información en tiempo real sobre los niveles de inventario.
+Con esta herramienta podemos coordinar la distribución de alimentos, ropa y futuros artículos que puedan existir. 
+Se implementa un sistema de inventario para garantizar un seguimiento de las donaciones de productos y facilitar su distribución según las necesidades.
+
+Los beneficios que podemos encontrar son los siguientes: 
+
+1. **Gestión Eficiente de Recursos:**   
+Permite un seguimiento detallado de los recursos disponibles, incluyendo alimentos, suministros médicos, ropa, etc.
+
+2. **Optimización de Inventario:**   
+Ayuda a evitar el exceso o la falta de existencias al proporcionar información en tiempo real sobre los niveles de inventario.
+
+3. **Colaboración y Comunicación Mejoradas:**   
+Mejora la comunicación interna al proporcionar a todos los miembros del equipo una visión común del inventario y los proyectos asociados.
+
+4. **Adaptabilidad y Escalabilidad:**   
+Odoo es un sistema escalable que puede adaptarse al crecimiento de la organización y a la expansión de proyectos.
+Proporciona flexibilidad para agregar nuevos productos, ubicaciones de almacenamiento y funciones según sea necesario.
+
 <br><br>
 
 
@@ -132,10 +168,12 @@ El propósito principal de implementar el módulo de marketing por email es mejo
 6. **Automatización de campañas**:
 
     Configuración de flujos automáticos para enviar correos de agradecimiento, actualizaciones de proyectos y recordatorios de eventos.
+
 <br><br>
 
 ### Empleados
 Para la gestión de los empleados, se debe tener su información, conectarlos con la empresa, generar sus contratos. Posicionarlos en los departamentos de la ONG. Primero se deciden los diferentes departamentos que va a constituir la empresa y después se añade el personal con una función dentro de ese departamento. Cada empleado tiene una función y el departamento puede variar en número de roles y de funciones. Se mantiene la coherencia y la lógica entre estos. 
+
 <br><br>
 
 
@@ -164,17 +202,32 @@ Registrar y documentar adecuadamente los gastos a través de este módulo puede 
 4. **Eficiencia en la gestión**: Al tener una visión clara de los gastos, se puede identificar áreas de mejora en la gestión financiera y optimizar los recursos disponibles.
 
 5. **Transparencia y confianza**: Aumenta la confianza de los donantes y el público en general al demostrar una gestión responsable y transparente de los recursos financieros.
+
 <br><br>
 
 ### Proyecto
 Garantiza que todas las actividades, decisiones y programas implementados estén en consonancia con la misión y los valores fundamentales de la organización.
-Gracias a dicho modulo, mejora la colaboración entre los miembros del equipo al proporcionar un espacio centralizado para compartir información y documentos relacionados con el proyecto, ya que permite la comunicación efectiva y el intercambio de actualizaciones de estado del proyecto.
+Las razones claves de su uso son las siguientes:
+
+1. **Planificación:**   
+Facilita la planificación detallada de proyectos, incluyendo tareas, plazos y recursos necesarios.    
+
+2. **Seguimiento del progreso:**   
+Permite realizar un seguimiento de tareas y actividades para garantizar que el proyecto avance según lo planificado. 
+
+3. **Colaboración:**   
+Mejora la colaboración entre los miembros del equipo al proporcionar un espacio centralizado para compartir información y documentos relacionados con el proyecto.
+
+4. **Gestión de Riesgos:**   
+Permite la identificación y gestión proactiva de riesgos asociados con cada proyecto.
+
 <br><br>
 
 
 ### Comercio Electrónico
 
 Permite al usuario que visite la página a obtener productos solidarios y de esta forma se contribuye a la recaudación de fondos.  Con esto, la empresa es promocionada y puede beneficiarse para llevar a cabo próximos proyectos.  
+
 <br><br><br>
 
 
@@ -201,25 +254,38 @@ Estas responsabilidades se distribuyeron entre los miembros del equipo, sin emba
 
 A continuación, se detalla el progreso alcanzado en cada sprint:
 
-![Reuniones semanales](sprint1.png)
+En el Sprint de la primera semana, nos focalizamos en entender con que tipo de empresa ibamos a trabajar, por dicho motivo, hubo mucha tarea de lectura para poder despues esquematizar correctamente como ibamos a trabajar y satisfacer las necesidades de la ONG.
+
+![Reuniones semanales](sprint1.png) 
 <br><br><br>
 ---
-<br><br>
+<br>
+En la segunda semana, presentamos los modulos que iban a satisfacer las necesidades más urgentes que tenia la empresa, teniendo en cuenta que su objetivo principal era hacerse más grande y poder llegar a trabajar por toda España.   
+Por eso, los modulos que presentamos fueron los comentados anteriormente, los cuales fueron aceptados por el PM de Esperanza Solidaria.
+
 ![Reuniones semanales](sprint2.png)
 <br><br><br>
 ---
-<br><br>
+<br>
+Comenzamos a plantear una idea inicial de como seria la página web, teniendo en cuenta de que manera queria llegar Esperanza Solidaria a su público y que era lo que queria transmitir. Para esto, hicimos realizamos un wireframe de baja fidelidad que posteriormente fue aceptado por el PM para poder ir realizando el mockup. Por otro lado, iniciamos el desarrollo de los módulos que habiamos escogido anteriormente.
+
 ![Reuniones semanales](sprint3.png)
 <br><br><br>
 ---
-<br><br>
+<br>
+Iniciamos con el mockup en Figma, el cual fue aprobado y nos permitio hacer realidad la página web que habiamos acordado con el PM. Por otro lado, se finalizaron los modulos anteriores y se continuaron con unos nuevos.
+
 ![Reuniones semanales](sprint4.png)
 <br><br><br>
 ---
-<br><br>
+<br>   
+Finalizamos la página web, siguiendo con la visión del PM de Esperanza Unida, y acabamos con los tres últimos módulos que teniamos pendiente. Todo esto nos permitio darles una visión general de como se estaba materializando la idea que nos habian presentado. 
+
+<br>
+
 ![Reuniones semanales](sprint5.png)
 
-<br><br>
+<br><br><br>
 
 ## 6-Prototipo Horizontal de baja fidelidad
 
