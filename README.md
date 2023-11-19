@@ -87,9 +87,9 @@ Para la gestión de los empleados, se debe tener su información, conectarlos co
 Para asegurarse de mantener la legalidad y la transparencia de los empleados y de sus funciones en la empresa, hay que tener un contrato suyo existente que esté bien documentado. Su fecha inicio, su fecha de fin, su sueldo, tiene que estar incluido en el contrato. 
 
 No puede haber un empleado sin contrato, Odoo tiene una opción para ver todos los contratos generados en una página, sin tener que acceder a ellos a través de los empleados. De esta forma se puede ver que empleado no tiene contrato y así completar la acción.
- ------
-![Alt text](image.png)
-![Alt text](image-1.png)
+ 
+![image](image.png)
+![image](image-1.png)
 
 
 ### Gastos
