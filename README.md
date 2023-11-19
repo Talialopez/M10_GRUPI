@@ -93,7 +93,19 @@ Se configura y gestiona para asegurar que los contratos de los empleados estén 
 
 
 ### Gastos
-Se gestiona para la transparencia financiera. Permite un seguimiento preciso y una gestión más eficiente de los recursos financieros.
+La gestión detallada de gastos es esencial para garantizar la transparencia y la responsabilidad en el manejo de los recursos. Esto no solo implica llevar un registro de cada desembolso, sino también asegurarse de que cada gasto esté alineado con los objetivos humanitarios y sociales de la organización. 
+
+Registrar y documentar adecuadamente los gastos a través de este módulo puede ayudar a Esperanza Solidaria de varias maneras:
+
+1. Transparencia financiera: Facilita la transparencia al mostrar a donantes, colaboradores y socios cómo se manejan y distribuyen los fondos.
+
+2. Seguimiento preciso de recursos: Permite un seguimiento detallado de cómo se gastan los fondos, lo que ayuda a tomar decisiones financieras más informadas y eficientes.
+
+3. Informes y justificación: Proporciona la base para informes financieros detallados y ayuda a justificar el uso de fondos a los donantes y a las autoridades correspondientes.
+
+4. Eficiencia en la gestión: Al tener una visión clara de los gastos, se puede identificar áreas de mejora en la gestión financiera y optimizar los recursos disponibles.
+
+5. Transparencia y confianza: Aumenta la confianza de los donantes y el público en general al demostrar una gestión responsable y transparente de los recursos financieros.
 
 
 
@@ -161,6 +173,8 @@ https://www.figma.com/file/mscZSGHO2kCcRqtMJ3tWAe/Esperanza-Solidaria---Prototip
 ## 7-Prototipo Horizontal de Alta Fidelidad
 
 https://www.figma.com/file/RYGk0VBYQdVZobpOJ5Hkj0/Prototipo-horizontal-de-alta-fidelidad?type=design&mode=design&t=MQ43xS64vHXe7EdB-0
+
+<br><br>
 
 ## 8-Conclusiones
 
