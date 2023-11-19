@@ -65,16 +65,19 @@ Este sistema permitirá una administración eficiente de la información, mejora
 
 ### Página Web
 Primordial para la promoción y captación de recursos. Se desarrolla un sitio web intuitivo y atractivo que destaque los proyectos de la empresa y facilite las donaciones en línea, además de la captación de futuros voluntarios.
+Entendemos que las necesidades de la organización pueden cambiar con el tiempo, y queremos asegurarnos de que su presencia en línea siempre esté alineada con su evolución. Así que, si en algún momento desean realizar cambios, ya sea actualizar información, agregar nuevas secciones o incluso cambiar el diseño visual, dicho modulo nos prepara para hacerlo realidad sin complicaciones.
+Con este módulo, podrán tener una presencia en línea que refleje verdaderamente la labor que realizan.Este sitio web no solo será un recurso informativo, sino también una herramienta para conectar con su comunidad y atraer a nuevos seguidores y donantes.
 
 
 
 ### Inventario
-Coordinar la distribución de alimentos, ropa y futuros artículos que puedan existir. Se implementa un sistema de inventario para garantizar un seguimiento de las donaciones de productos y facilite su distribución según las necesidades.
+Coordinar la distribución de alimentos, ropa y futuros artículos que puedan existir. Se implementa un sistema de inventario para garantizar un seguimiento de las donaciones de productos y facilitar su distribución según las necesidades.
+Esta herramienta nos ayuda a evitar el exceso o la falta de existencias al proporcionar información en tiempo real sobre los niveles de inventario.
 
 
 
 ### Marketing por Email
-Herramienta efectiva para sensibilizar a la comunidad y presentar campañas de concienciación. Este módulo permite el diseño y la ejecución de campañas de manera eficaz, con el objetivo de llegar a la máxima audiencia posible.
+Herramienta efectiva para sensibilizar a la comunidad y presentar campañas de concienciación. Este módulo permite el diseño y la ejecución de campañas de manera eficaz, con el objetivo de llegar a la máxima audiencia posible. 
 
 
 
@@ -95,7 +98,8 @@ Se gestiona para la transparencia financiera. Permite un seguimiento preciso y u
 
 ### Proyecto
 Gestiona la supervisión y evaluación de la implementación de programas.
-Garantiza que todas las actividades, decisiones y programas implementados estén en consonancia con la misión y los valores fundamentales de la organización
+Garantiza que todas las actividades, decisiones y programas implementados estén en consonancia con la misión y los valores fundamentales de la organización.
+Gracias a dicho modulo, mejora la colaboración entre los miembros del equipo al proporcionar un espacio centralizado para compartir información y documentos relacionados con el proyecto, ya que permite la comunicación efectiva y el intercambio de actualizaciones de estado del proyecto.
 
 
 
