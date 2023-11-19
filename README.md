@@ -64,28 +64,28 @@ Este sistema permitirá una administración eficiente de la información, mejora
 
 1. **Gestión de donantes**:
 
-Registro detallado de donantes individuales y empresas colaboradoras.
-Seguimiento de donaciones y generación de informes para evaluar el apoyo financiero.
+    Registro detallado de donantes individuales y empresas colaboradoras.
+    Seguimiento de donaciones y generación de informes para evaluar el apoyo financiero.
 
 2. **Voluntarios y personal**:
 
-Perfiles de voluntarios con habilidades y experiencia detalladas.
-Seguimiento de la disponibilidad y asignación eficiente a proyectos según las necesidades.
+    Perfiles de voluntarios con habilidades y experiencia detalladas.
+    Seguimiento de la disponibilidad y asignación eficiente a proyectos según las necesidades.
 
 3. **Seguimiento de programas y proyectos**:
 
-Registro de programas y proyectos en curso.
-Evaluación continua para asegurar la alineación con la misión de la organización.
+    Registro de programas y proyectos en curso.
+    Evaluación continua para asegurar la alineación con la misión de la organización.
 
 4. **Interacción y comunicación**:
 
-Registro de interacciones con donantes, voluntarios y colaboradores.
-Herramientas de comunicación integradas para mantener a todos informados sobre los avances y logros.
+    Registro de interacciones con donantes, voluntarios y colaboradores.
+    Herramientas de comunicación integradas para mantener a todos informados sobre los avances y logros.
 
 5. **Análisis y reportes**:
 
-Generación de informes para evaluar la eficacia de las campañas de concienciación y captación de recursos.
-Seguimiento de la participación en eventos y respuesta a campañas.
+    Generación de informes para evaluar la eficacia de las campañas de concienciación y captación de recursos.
+    Seguimiento de la participación en eventos y respuesta a campañas.
 <br><br>
 
 
@@ -95,7 +95,8 @@ Primordial para la promoción y captación de recursos. Se desarrolla un sitio w
 
 
 ### Inventario
-Coordinar la distribución de alimentos, ropa y futuros artículos que puedan existir. Se implementa un sistema de inventario para garantizar un seguimiento de las donaciones de productos y facilite su distribución según las necesidades.
+Coordinar la distribución de alimentos, ropa y futuros artículos que puedan existir. Se implementa un sistema de inventario para garantizar un seguimiento de las donaciones de productos y facilitar su distribución según las necesidades.
+Esta herramienta nos ayuda a evitar el exceso o la falta de existencias al proporcionar información en tiempo real sobre los niveles de inventario.
 <br><br>
 
 
@@ -163,8 +164,8 @@ Registrar y documentar adecuadamente los gastos a través de este módulo puede 
 <br><br>
 
 ### Proyecto
-Gestiona la supervisión y evaluación de la implementación de programas.
-Garantiza que todas las actividades, decisiones y programas implementados estén en consonancia con la misión y los valores fundamentales de la organización
+Garantiza que todas las actividades, decisiones y programas implementados estén en consonancia con la misión y los valores fundamentales de la organización.
+Gracias a dicho modulo, mejora la colaboración entre los miembros del equipo al proporcionar un espacio centralizado para compartir información y documentos relacionados con el proyecto, ya que permite la comunicación efectiva y el intercambio de actualizaciones de estado del proyecto.
 <br><br>
 
 
