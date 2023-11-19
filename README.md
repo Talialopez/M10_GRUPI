@@ -9,9 +9,8 @@
 3. [Módulos](#3-módulos)
 4. [Backlog](#4-backlog)
 5. [Reuniones semanales](#5-reuniones-semanales)
-6. [Protoipo Horizontal de Baja Fidelidad](#6-prototipo-horizontal-de-baja-fidelidad)
-7. [Prototipo Horizontal de Alta Fidelidad](#7-prototipo-horizontal-de-alta-fidelidad)
-8. [Conclusiones](#8-conclusiones)
+6. [Protoipo Horizontal de baja fidelidad](#6-prototipo-horizontal-de-baja-fidelidad)
+7. [Página web](#6-página-web)
 
 <br>
 
@@ -66,59 +65,42 @@ Este sistema permitirá una administración eficiente de la información, mejora
 
 ### Página Web
 Primordial para la promoción y captación de recursos. Se desarrolla un sitio web intuitivo y atractivo que destaque los proyectos de la empresa y facilite las donaciones en línea, además de la captación de futuros voluntarios.
-Entendemos que las necesidades de la organización pueden cambiar con el tiempo, y queremos asegurarnos de que su presencia en línea siempre esté alineada con su evolución. Así que, si en algún momento desean realizar cambios, ya sea actualizar información, agregar nuevas secciones o incluso cambiar el diseño visual, dicho modulo nos prepara para hacerlo realidad sin complicaciones.
-Con este módulo, podrán tener una presencia en línea que refleje verdaderamente la labor que realizan.Este sitio web no solo será un recurso informativo, sino también una herramienta para conectar con su comunidad y atraer a nuevos seguidores y donantes.
 
 
 
 ### Inventario
-Coordinar la distribución de alimentos, ropa y futuros artículos que puedan existir. Se implementa un sistema de inventario para garantizar un seguimiento de las donaciones de productos y facilitar su distribución según las necesidades.
-Esta herramienta nos ayuda a evitar el exceso o la falta de existencias al proporcionar información en tiempo real sobre los niveles de inventario.
+Coordinar la distribución de alimentos, ropa y futuros artículos que puedan existir. Se implementa un sistema de inventario para garantizar un seguimiento de las donaciones de productos y facilite su distribución según las necesidades.
 
 
 
 ### Marketing por Email
-Herramienta efectiva para sensibilizar a la comunidad y presentar campañas de concienciación. Este módulo permite el diseño y la ejecución de campañas de manera eficaz, con el objetivo de llegar a la máxima audiencia posible. 
+Herramienta efectiva para sensibilizar a la comunidad y presentar campañas de concienciación. Este módulo permite el diseño y la ejecución de campañas de manera eficaz, con el objetivo de llegar a la máxima audiencia posible.
 
 
 
 ### Empleados
-Clave para la eficiencia interna. Se configura y gestiona para optimizar la gestión del personal.
+Para la gestión de los empleados, se debe tener su información, conectarlos con la empresa, generar sus contratos. Posicionarlos en los departamentos de la ONG. Primero se deciden los diferentes departamentos que va a constituir la empresa y después se añade el personal con una función dentro de ese departamento. Cada empleado tiene una función y el departamento puede variar en número de roles y de funciones. Se mantiene la coherencia y la lógica entre estos. 
 
 
 
 ### Contrato de los empleados
-Se configura y gestiona para asegurar que los contratos de los empleados estén bien documentados, esto ayuda a la transparencia y la legalidad.
+Para asegurarse de mantener la legalidad y la transparencia de los empleados y de sus funciones en la empresa, hay que tener un contrato suyo existente que esté bien documentado. Su fecha inicio, su fecha de fin, su sueldo, tiene que estar incluido en el contrato. 
 
 
 
 ### Gastos
-La gestión detallada de gastos es esencial para garantizar la transparencia y la responsabilidad en el manejo de los recursos. Esto no solo implica llevar un registro de cada desembolso, sino también asegurarse de que cada gasto esté alineado con los objetivos humanitarios y sociales de la organización. 
-
-Registrar y documentar adecuadamente los gastos a través de este módulo puede ayudar a Esperanza Solidaria de varias maneras:
-
-1. Transparencia financiera: Facilita la transparencia al mostrar a donantes, colaboradores y socios cómo se manejan y distribuyen los fondos.
-
-2. Seguimiento preciso de recursos: Permite un seguimiento detallado de cómo se gastan los fondos, lo que ayuda a tomar decisiones financieras más informadas y eficientes.
-
-3. Informes y justificación: Proporciona la base para informes financieros detallados y ayuda a justificar el uso de fondos a los donantes y a las autoridades correspondientes.
-
-4. Eficiencia en la gestión: Al tener una visión clara de los gastos, se puede identificar áreas de mejora en la gestión financiera y optimizar los recursos disponibles.
-
-5. Transparencia y confianza: Aumenta la confianza de los donantes y el público en general al demostrar una gestión responsable y transparente de los recursos financieros.
+Se gestiona para la transparencia financiera. Permite un seguimiento preciso y una gestión más eficiente de los recursos financieros.
 
 
 
 ### Proyecto
 Gestiona la supervisión y evaluación de la implementación de programas.
-Garantiza que todas las actividades, decisiones y programas implementados estén en consonancia con la misión y los valores fundamentales de la organización.
-Gracias a dicho modulo, mejora la colaboración entre los miembros del equipo al proporcionar un espacio centralizado para compartir información y documentos relacionados con el proyecto, ya que permite la comunicación efectiva y el intercambio de actualizaciones de estado del proyecto.
+Garantiza que todas las actividades, decisiones y programas implementados estén en consonancia con la misión y los valores fundamentales de la organización
 
 
 
 ### Comercio Electrónico
-Permite la venta de productos benéficos y facilitando la recaudación de fondos a través de eventos en línea.
-
+Permite al usuario que visite la página a obtener productos solidarios y de esta forma se contribuye a la recaudación de fondos.  Con esto, la empresa es promocionada y recauda fondos para proyectos actuales y futuros. 
 <br><br>
 
 ## 4-Backlog
@@ -164,17 +146,11 @@ A continuación, se detalla el progreso alcanzado en cada sprint:
 
 <br><br>
 
-## 6-Prototipo Horizontal de Baja Fidelidad
+## 6-Prototipo Horizontal de baja fidelidad
 
 https://www.figma.com/file/mscZSGHO2kCcRqtMJ3tWAe/Esperanza-Solidaria---Prototipo-Horizontal-de-baja-fidelidad?type=design&node-id=0-1&mode=design&t=dggPrgNcYQ6bSwWA-0
 
 <br><br>
 
-## 7-Prototipo Horizontal de Alta Fidelidad
-
-https://www.figma.com/file/RYGk0VBYQdVZobpOJ5Hkj0/Prototipo-horizontal-de-alta-fidelidad?type=design&mode=design&t=MQ43xS64vHXe7EdB-0
-
-<br><br>
-
-## 8-Conclusiones
+## 7-Página Web
 
