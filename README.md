@@ -170,7 +170,7 @@ Gracias a dicho modulo, mejora la colaboración entre los miembros del equipo al
 
 ### Comercio Electrónico
 
-Permite al usuario que visite la página a obtener productos solidarios y de esta forma se contribuye a la recaudación de fondos.  Con esto, la empresa es promocionada y recauda fondos para proyectos actuales y futuros. 
+Permite al usuario que visite la página a obtener productos solidarios y de esta forma se contribuye a la recaudación de fondos.  Con esto, la empresa es promocionada y puede beneficiarse para llevar a cabo próximos proyectos.  
 <br><br><br>
 
 
