@@ -84,12 +84,12 @@ Para la gestión de los empleados, se debe tener su información, conectarlos co
 
 
 ### Contrato de los empleados
-Para asegurarse de mantener la legalidad y la transparencia de los empleados y de sus funciones en la empresa, hay que tener un contrato suyo existente que esté bien documentado. Su fecha inicio, su fecha de fin, su sueldo, tiene que estar incluido en el contrato. 
+Para asegurarse de mantener la legalidad y la transparencia de los empleados y de sus funciones en la empresa, hay que tener un contrato suyo existente que esté bien documentado. Su fecha de inicio, su fecha de fin, su sueldo, tiene que estar incluido en el contrato. 
 
-No puede haber un empleado sin contrato, Odoo tiene una opción para ver todos los contratos generados en una página, sin tener que acceder a ellos a través de los empleados. De esta forma se puede ver que empleado no tiene contrato y así completar la acción.
+No puede haber un empleado sin contrato, Odoo tiene una opción para ver todos los contratos generados en una página, sin tener que acceder a ellos a través de los empleados. De esta forma el empleado que no tiene contrato aparece en la parte de "ninguno", se clica sobre él/ella y se completa la acción.
  
 ![image](image.png)
-![image](image-1.png)
+![image](captura_contratos.png)
 
 
 ### Gastos
@@ -104,7 +104,7 @@ Garantiza que todas las actividades, decisiones y programas implementados estén
 
 
 ### Comercio Electrónico
-Permite al usuario que visite la página a obtener productos solidarios y de esta forma se contribuye a la recaudación de fondos.  Con esto, la empresa es promocionada y recauda fondos para proyectos actuales y futuros. 
+Permite al usuario que visite la página a obtener productos solidarios y de esta forma se contribuye a la recaudación de fondos.  Con esto, la empresa es promocionada y recaudar fondos para proyectos actuales y futuros. 
 <br><br>
 
 ## 4-Backlog
