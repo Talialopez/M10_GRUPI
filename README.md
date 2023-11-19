@@ -9,8 +9,9 @@
 3. [Módulos](#3-módulos)
 4. [Backlog](#4-backlog)
 5. [Reuniones semanales](#5-reuniones-semanales)
-6. [Protoipo Horizontal de baja fidelidad](#6-prototipo-horizontal-de-baja-fidelidad)
-7. [Página web](#6-página-web)
+6. [Protoipo Horizontal de Baja Fidelidad](#6-prototipo-horizontal-de-baja-fidelidad)
+7. [Prototipo Horizontal de Alta Fidelidad](#7-prototipo-horizontal-de-alta-fidelidad)
+8. [Conclusiones](#8-conclusiones)
 
 <br>
 
@@ -151,11 +152,15 @@ A continuación, se detalla el progreso alcanzado en cada sprint:
 
 <br><br>
 
-## 6-Prototipo Horizontal de baja fidelidad
+## 6-Prototipo Horizontal de Baja Fidelidad
 
 https://www.figma.com/file/mscZSGHO2kCcRqtMJ3tWAe/Esperanza-Solidaria---Prototipo-Horizontal-de-baja-fidelidad?type=design&node-id=0-1&mode=design&t=dggPrgNcYQ6bSwWA-0
 
 <br><br>
 
-## 7-Página Web
+## 7-Prototipo Horizontal de Alta Fidelidad
+
+https://www.figma.com/file/RYGk0VBYQdVZobpOJ5Hkj0/Prototipo-horizontal-de-alta-fidelidad?type=design&mode=design&t=MQ43xS64vHXe7EdB-0
+
+## 8-Conclusiones
 
