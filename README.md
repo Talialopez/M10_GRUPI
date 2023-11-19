@@ -10,7 +10,8 @@
 4. [Backlog](#4-backlog)
 5. [Reuniones semanales](#5-reuniones-semanales)
 6. [Protoipo Horizontal de baja fidelidad](#6-prototipo-horizontal-de-baja-fidelidad)
-7. [Página web](#6-página-web)
+7. [Protoipo Horizontal de alta fidelidad](#7-prototipo-horizontal-de-alta-fidelidad)
+8. [Conclusiones](#8-conclusiones)
 
 <br>
 
@@ -134,13 +135,16 @@ Para la gestión de los empleados, se debe tener su información, conectarlos co
 
 
 ### Contrato de los empleados
-Para asegurarse de mantener la legalidad y la transparencia de los empleados y de sus funciones en la empresa, hay que tener un contrato suyo existente que esté bien documentado. Su fecha inicio, su fecha de fin, su sueldo, tiene que estar incluido en el contrato. 
+Para asegurarse de mantener la legalidad y la transparencia de los empleados y de sus funciones en la empresa, hay que tener un contrato suyo existente que esté bien documentado. Su fecha de inicio, su fecha de fin, su sueldo, tiene que estar incluido en el contrato. 
 
-No puede haber un empleado sin contrato, Odoo tiene una opción para ver todos los contratos generados en una página, sin tener que acceder a ellos a través de los empleados. De esta forma se puede ver que empleado no tiene contrato y así completar la acción.
+No puede haber un empleado sin contrato, Odoo tiene una opción para ver todos los contratos generados en una página, sin tener que acceder a ellos a través de los empleados. De esta forma el empleado que no tiene contrato aparece en la parte de "ninguno", se clica sobre él/ella y se completa la acción.
  
 ![image](image.png)
 ![image](image-1.png)
 <br><br>
+
+![image](captura_contratos.png)
+
 
 ### Gastos
 La gestión detallada de gastos es esencial para garantizar la transparencia y la responsabilidad en el manejo de los recursos. Esto no solo implica llevar un registro de cada desembolso, sino también asegurarse de que cada gasto esté alineado con los objetivos humanitarios y sociales de la organización. 
@@ -165,8 +169,10 @@ Garantiza que todas las actividades, decisiones y programas implementados estén
 
 
 ### Comercio Electrónico
+
 Permite al usuario que visite la página a obtener productos solidarios y de esta forma se contribuye a la recaudación de fondos.  Con esto, la empresa es promocionada y recauda fondos para proyectos actuales y futuros. 
 <br><br><br>
+
 
 ## 4-Backlog
 
@@ -223,7 +229,7 @@ https://www.figma.com/file/RYGk0VBYQdVZobpOJ5Hkj0/Prototipo-horizontal-de-alta-f
 
 <br><br>
 
-## 8-Página Web
+## 8-Conclusiones
 
 La implementación de un ERP como Odoo en Esperanza Solidaria es una inversión estratégica. La plataforma ofrece herramientas integrales que no solo mejoran la eficiencia operativa, sino que también fortalecen la capacidad de la organización para alcanzar sus objetivos humanitarios con transparencia, eficacia y escalabilidad.
 
