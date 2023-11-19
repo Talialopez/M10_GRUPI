@@ -91,6 +91,10 @@ Este sistema permitirá una administración eficiente de la información, mejora
 
 ### Página Web
 Primordial para la promoción y captación de recursos. Se desarrolla un sitio web intuitivo y atractivo que destaque los proyectos de la empresa y facilite las donaciones en línea, además de la captación de futuros voluntarios.
+
+Entendemos que las necesidades de la organización pueden cambiar con el tiempo, y queremos asegurarnos de que su presencia en línea siempre esté alineada con su evolución. Así que, si en algún momento desean realizar cambios, ya sea actualizar información, agregar nuevas secciones o incluso cambiar el diseño visual, dicho modulo nos prepara para hacerlo realidad sin complicaciones.
+
+Con este módulo, podrán tener una presencia en línea que refleje verdaderamente la labor que realizan.Este sitio web no solo será un recurso informativo, sino también una herramienta para conectar con su comunidad y atraer a nuevos seguidores y donantes.
 <br><br>
 
 
