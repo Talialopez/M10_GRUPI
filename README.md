@@ -278,7 +278,7 @@ Iniciamos con el mockup en Figma, el cual fue aprobado y nos permitio hacer real
 ![Reuniones semanales](sprint4.png)
 <br><br><br>
 ---
-<br>   
+<br><br>
 Finalizamos la página web, siguiendo con la visión del PM de Esperanza Unida, y acabamos con los tres últimos módulos que teniamos pendiente. Todo esto nos permitio darles una visión general de como se estaba materializando la idea que nos habian presentado.
  
 <br>
