@@ -140,12 +140,11 @@ Para asegurarse de mantener la legalidad y la transparencia de los empleados y d
 
 No puede haber un empleado sin contrato, Odoo tiene una opción para ver todos los contratos generados en una página, sin tener que acceder a ellos a través de los empleados. De esta forma el empleado que no tiene contrato aparece en la parte de "ninguno", se clica sobre él/ella y se completa la acción.
  
-![image](image.png)
-![image](image-1.png)
+
+![alt text](image.png)
+![alt text](captura_contratos.png)
+
 <br><br>
-
-![image](captura_contratos.png)
-
 
 ### Gastos
 La gestión detallada de gastos es esencial para garantizar la transparencia y la responsabilidad en el manejo de los recursos. Esto no solo implica llevar un registro de cada desembolso, sino también asegurarse de que cada gasto esté alineado con los objetivos humanitarios y sociales de la organización. 
