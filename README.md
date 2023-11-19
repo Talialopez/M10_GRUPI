@@ -61,41 +61,41 @@ La elección de los módulos de Odoo esta enfocada en abordar las necesidades es
 El módulo CRM desempeñará un papel fundamental en la optimización de la gestión de relaciones con donantes, voluntarios y colaboradores de Esperanza Solidaria. 
 Este sistema permitirá una administración eficiente de la información, mejorando la comunicación y fortaleciendo las relaciones con todas las partes involucradas. A continuación, se detallan sus funcionalidades clave:
 
-**Gestión de donantes**:
+1. **Gestión de donantes**:
 
 Registro detallado de donantes individuales y empresas colaboradoras.
 Seguimiento de donaciones y generación de informes para evaluar el apoyo financiero.
 
-**Voluntarios y personal**:
+2. **Voluntarios y personal**:
 
 Perfiles de voluntarios con habilidades y experiencia detalladas.
 Seguimiento de la disponibilidad y asignación eficiente a proyectos según las necesidades.
 
-**Seguimiento de programas y proyectos**:
+3. **Seguimiento de programas y proyectos**:
 
 Registro de programas y proyectos en curso.
 Evaluación continua para asegurar la alineación con la misión de la organización.
 
-**Interacción y comunicación**:
+4. **Interacción y comunicación**:
 
 Registro de interacciones con donantes, voluntarios y colaboradores.
 Herramientas de comunicación integradas para mantener a todos informados sobre los avances y logros.
 
-**Análisis y reportes**:
+5. **Análisis y reportes**:
 
 Generación de informes para evaluar la eficacia de las campañas de concienciación y captación de recursos.
 Seguimiento de la participación en eventos y respuesta a campañas.
-
+<br><br>
 
 
 ### Página Web
 Primordial para la promoción y captación de recursos. Se desarrolla un sitio web intuitivo y atractivo que destaque los proyectos de la empresa y facilite las donaciones en línea, además de la captación de futuros voluntarios.
-
+<br><br>
 
 
 ### Inventario
 Coordinar la distribución de alimentos, ropa y futuros artículos que puedan existir. Se implementa un sistema de inventario para garantizar un seguimiento de las donaciones de productos y facilite su distribución según las necesidades.
-
+<br><br>
 
 
 ### Marketing por Email
@@ -103,34 +103,34 @@ Herramienta efectiva para sensibilizar a la comunidad y presentar campañas de c
 
 El propósito principal de implementar el módulo de marketing por email es mejorar la comunicación con donantes, voluntarios y la comunidad en general.  A continuación se detallan sus características clave:
 
-**Creación de campañas personalizadas**:
+1. **Creación de campañas personalizadas**:
+    
+    Permite diseñar y enviar correos electrónicos personalizados a segmentos específicos de la audiencia.
 
-Permite diseñar y enviar correos electrónicos personalizados a segmentos específicos de la audiencia.
+2. **Automatización de flujos de trabajo**:
 
-**Automatización de flujos de trabajo**:
+    Configuración de flujos automáticos para enviar correos de agradecimiento, confirmaciones y recordatorios.
 
-Configuración de flujos automáticos para enviar correos de agradecimiento, confirmaciones y recordatorios.
+3. **Seguimiento y análisis**:
 
-**Seguimiento y análisis**:
+    Proporciona métricas detalladas para evaluar el rendimiento de las campañas.
 
-Proporciona métricas detalladas para evaluar el rendimiento de las campañas.
+4. **Segmentación de audiencia**:
 
-**Segmentación de audiencia**:
+    División de contactos en grupos específicos (donantes, voluntarios, intereses) para mensajes personalizados y dirigidos.
 
-División de contactos en grupos específicos (donantes, voluntarios, intereses) para mensajes personalizados y dirigidos.
+5. **Contenido relevante y persuasivo**:
 
-**Contenido relevante y persuasivo**:
+    Creación de contenido atractivo y persuasivo para transmitir el impacto real de las contribuciones y la importancia de la participación.
 
-Creación de contenido atractivo y persuasivo para transmitir el impacto real de las contribuciones y la importancia de la participación.
+6. **Automatización de campañas**:
 
-**Automatización de campañas**:
-
-Configuración de flujos automáticos para enviar correos de agradecimiento, actualizaciones de proyectos y recordatorios de eventos.
-
+    Configuración de flujos automáticos para enviar correos de agradecimiento, actualizaciones de proyectos y recordatorios de eventos.
+<br><br>
 
 ### Empleados
 Para la gestión de los empleados, se debe tener su información, conectarlos con la empresa, generar sus contratos. Posicionarlos en los departamentos de la ONG. Primero se deciden los diferentes departamentos que va a constituir la empresa y después se añade el personal con una función dentro de ese departamento. Cada empleado tiene una función y el departamento puede variar en número de roles y de funciones. Se mantiene la coherencia y la lógica entre estos. 
-
+<br><br>
 
 
 ### Contrato de los empleados
@@ -140,10 +140,9 @@ No puede haber un empleado sin contrato, Odoo tiene una opción para ver todos l
  
 ![image](image.png)
 ![image](image-1.png)
-
+<br><br>
 
 ### Gastos
-<<<<<<< HEAD
 La gestión detallada de gastos es esencial para garantizar la transparencia y la responsabilidad en el manejo de los recursos. Esto no solo implica llevar un registro de cada desembolso, sino también asegurarse de que cada gasto esté alineado con los objetivos humanitarios y sociales de la organización. 
 
 Registrar y documentar adecuadamente los gastos a través de este módulo puede ayudar a Esperanza Solidaria de varias maneras:
@@ -157,21 +156,17 @@ Registrar y documentar adecuadamente los gastos a través de este módulo puede 
 4. **Eficiencia en la gestión**: Al tener una visión clara de los gastos, se puede identificar áreas de mejora en la gestión financiera y optimizar los recursos disponibles.
 
 5. **Transparencia y confianza**: Aumenta la confianza de los donantes y el público en general al demostrar una gestión responsable y transparente de los recursos financieros.
-=======
-Se gestiona para la transparencia financiera. Permite un seguimiento preciso y una gestión más eficiente de los recursos financieros.
->>>>>>> main
-
-
+<br><br>
 
 ### Proyecto
 Gestiona la supervisión y evaluación de la implementación de programas.
 Garantiza que todas las actividades, decisiones y programas implementados estén en consonancia con la misión y los valores fundamentales de la organización
-
+<br><br>
 
 
 ### Comercio Electrónico
 Permite al usuario que visite la página a obtener productos solidarios y de esta forma se contribuye a la recaudación de fondos.  Con esto, la empresa es promocionada y recauda fondos para proyectos actuales y futuros. 
-<br><br>
+<br><br><br>
 
 ## 4-Backlog
 
@@ -222,7 +217,13 @@ https://www.figma.com/file/mscZSGHO2kCcRqtMJ3tWAe/Esperanza-Solidaria---Prototip
 
 <br><br>
 
-## 7-Página Web
+## 7-Prototipo Horizontal de alta fidelidad
+
+https://www.figma.com/file/RYGk0VBYQdVZobpOJ5Hkj0/Prototipo-horizontal-de-alta-fidelidad?type=design&node-id=0-1&mode=design&t=xo6gEHtPbeNJ1QS5-0
+
+<br><br>
+
+## 8-Página Web
 
 La implementación de un ERP como Odoo en Esperanza Solidaria es una inversión estratégica. La plataforma ofrece herramientas integrales que no solo mejoran la eficiencia operativa, sino que también fortalecen la capacidad de la organización para alcanzar sus objetivos humanitarios con transparencia, eficacia y escalabilidad.
 
